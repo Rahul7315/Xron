@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Xron/static/css/main.073c9b0a.css",
+    "main.js": "/Xron/static/js/main.8e918be7.js",
+    "static/js/787.a2195d72.chunk.js": "/Xron/static/js/787.a2195d72.chunk.js",
+    "index.html": "/Xron/index.html",
+    "main.073c9b0a.css.map": "/Xron/static/css/main.073c9b0a.css.map",
+    "main.8e918be7.js.map": "/Xron/static/js/main.8e918be7.js.map",
+    "787.a2195d72.chunk.js.map": "/Xron/static/js/787.a2195d72.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.8e918be7.js"
+  ]
+}
